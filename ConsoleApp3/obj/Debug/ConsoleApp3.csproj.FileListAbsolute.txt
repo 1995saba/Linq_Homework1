@@ -1,0 +1,12 @@
+C:\Users\HP\Downloads\ADO.NET.WeekThreeG1-master\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\HP\Downloads\ADO.NET.WeekThreeG1-master\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\HP\Downloads\ADO.NET.WeekThreeG1-master\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\HP\Downloads\ADO.NET.WeekThreeG1-master\ConsoleApp3\bin\Debug\EntityFramework.dll
+C:\Users\HP\Downloads\ADO.NET.WeekThreeG1-master\ConsoleApp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Downloads\ADO.NET.WeekThreeG1-master\ConsoleApp3\bin\Debug\EntityFramework.xml
+C:\Users\HP\Downloads\ADO.NET.WeekThreeG1-master\ConsoleApp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Downloads\ADO.NET.WeekThreeG1-master\ConsoleApp3\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\HP\Downloads\ADO.NET.WeekThreeG1-master\ConsoleApp3\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\HP\Downloads\ADO.NET.WeekThreeG1-master\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\ADO.NET.WeekThreeG1-master\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\HP\Downloads\ADO.NET.WeekThreeG1-master\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
